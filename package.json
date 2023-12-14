@@ -1,0 +1,15 @@
+{
+  "name": "node-http-server",
+  "version": "1.0.0",
+  "description": "http server in node",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "",
+  "license": "ISC"
+}
